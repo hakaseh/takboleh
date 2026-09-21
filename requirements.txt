@@ -1,0 +1,5 @@
+numpy
+matplotlib
+tabula-py
+jpype1
+pandas
